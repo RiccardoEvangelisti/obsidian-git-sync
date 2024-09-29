@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Intro.md"
+                "file": "0.Glossary.md"
               }
             }
           },
@@ -226,25 +226,33 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "54452a1e2dfb906b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 352.5,
-    "collapsed": true
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": true
     }
   },
-  "active": "57e5ead1e9a6df8e",
+  "active": "1c86cf2a1f7b3870",
   "lastOpenFiles": [
     "images/Pasted image 20240929192231.png",
     "images/Pasted image 20240929192147.png",
