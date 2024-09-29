@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "57e5ead1e9a6df8e",
+            "id": "aa3682f77c852c45",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Glossary.md"
+                "file": "8.Multiagent.md"
               }
             }
           },
@@ -240,7 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,8 +252,12 @@
       "obsidian-git:Open Git source control": true
     }
   },
-  "active": "1c86cf2a1f7b3870",
+  "active": "54452a1e2dfb906b",
   "lastOpenFiles": [
+    "0.Intro.md",
+    "0.Glossary.md",
+    "git_sync",
+    "Nuova cartella",
     "images/Pasted image 20240929192231.png",
     "images/Pasted image 20240929192147.png",
     "3.Monte Carlo Methods.md",
@@ -266,15 +270,12 @@
     "5.Function Approximation.md",
     "4.Temporal-Difference Learning.md",
     "1.Markov Decision Processes.md",
-    "0.Intro.md",
-    "0.Glossary.md",
     "images/Pasted image 20240929143200.png",
     "images/Pasted image 20240929120829.png",
     "images/Pasted image 20240928231318.png",
     "images/Pasted image 20240928230751.png",
     "images/Pasted image 20240928225251.png",
     "images/Pasted image 20240928223007.png",
-    "images/Pasted image 20240928210126.png",
     "desktop.ini",
     "Drawing 2024-08-31 20.51.47.excalidraw.md",
     "4.Function Approximation.md",
@@ -296,11 +297,9 @@
     "IA/7) Giochi.md",
     "IA/0) Indroduzione.pdf",
     "IA",
-    "Nuova cartella",
     "Modulo 1/Esercizio1.canvas",
     "Modulo 2/Appendice II - Diagrammi di flusso.pdf",
     "Modulo 2/esercizio Ambulanze",
-    "Modulo 2/esercizio Checkin",
     "Modulo 1/Untitled.canvas"
   ]
 }
