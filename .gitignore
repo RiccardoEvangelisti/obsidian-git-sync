@@ -4,16 +4,19 @@
 # Includelist some files
 !.gitignore
 
-# Unignore the directory tree leading to .obsidian
-!Il mio Drive/
-Il mio Drive/*
-!Il mio Drive/UNIVERSITA/
-Il mio Drive/UNIVERSITA/*
-Il mio Drive/UNIVERSITA/3. Magistrale/*
-!Il mio Drive/UNIVERSITA/3. Magistrale/
-Il mio Drive/UNIVERSITA/3. Magistrale/2.2 Autonomous and Adaptive Systems/*
-!Il mio Drive/UNIVERSITA/3. Magistrale/2.2 Autonomous and Adaptive Systems/
-Il mio Drive/UNIVERSITA/3. Magistrale/2.2 Autonomous and Adaptive Systems/AAS/*
-!Il mio Drive/UNIVERSITA/3. Magistrale/2.2 Autonomous and Adaptive Systems/AAS/
-Il mio Drive/UNIVERSITA/3. Magistrale/2.2 Autonomous and Adaptive Systems/AAS/.obsidian/*
-!Il mio Drive/UNIVERSITA/3. Magistrale/2.2 Autonomous and Adaptive Systems/AAS/.obsidian/
+!Il\ mio\ Drive/
+Il\ mio\ Drive/*
+
+!Il\ mio\ Drive/UNIVERSITA/
+Il\ mio\ Drive/UNIVERSITA/*
+
+!Il\ mio\ Drive/UNIVERSITA/3.\ Magistrale/
+Il\ mio\ Drive/UNIVERSITA/3.\ Magistrale/*
+
+!Il\ mio\ Drive/UNIVERSITA/3.\ Magistrale/2.2\ Autonomous\ and\ Adaptive\ Systems/
+Il\ mio\ Drive/UNIVERSITA/3.\ Magistrale/2.2\ Autonomous\ and\ Adaptive\ Systems/*
+
+!Il\ mio\ Drive/UNIVERSITA/3.\ Magistrale/2.2\ Autonomous\ and\ Adaptive\ Systems/AAS/
+Il\ mio\ Drive/UNIVERSITA/3.\ Magistrale/2.2\ Autonomous\ and\ Adaptive\ Systems/AAS/*
+
+!Il\ mio\ Drive/UNIVERSITA/3.\ Magistrale/2.2\ Autonomous\ and\ Adaptive\ Systems/AAS/.obsidian
