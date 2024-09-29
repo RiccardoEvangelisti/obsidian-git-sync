@@ -1,0 +1,6 @@
+# Blocklist all files and folders
+/*
+
+# Includelist .gitignore and specific .obsidian folder
+!.gitignore
+!Il mio Drive/UNIVERSITA/3. Magistrale/2.2 Autonomous and Adaptive Systems/AAS/.obsidian/
