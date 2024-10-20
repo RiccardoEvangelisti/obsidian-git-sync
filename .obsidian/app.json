@@ -19,5 +19,6 @@
   "showLineNumber": false,
   "readableLineLength": false,
   "focusNewTab": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "livePreview": true
 }
