@@ -1,5 +1,6 @@
-# /*
+/*
 
-# !.obsidian/
+!.obsidian/
+!.gitignore
 
-# !.gitignore
+.obsidian/workspace.json
