@@ -4,7 +4,7 @@
   "nativeMenus": false,
   "baseFontSize": 18,
   "textFontFamily": "Cambria",
-  "showViewHeader": false,
+  "showViewHeader": true,
   "translucency": false,
   "monospaceFontFamily": "Courier New"
 }

@@ -20,5 +20,7 @@
   "readableLineLength": false,
   "focusNewTab": false,
   "strictLineBreaks": false,
-  "livePreview": true
+  "livePreview": true,
+  "showRibbon": true,
+  "showIndentGuide": true
 }

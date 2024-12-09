@@ -1,9 +1,8 @@
 /*
 
 !.obsidian/
-desktop.ini
 !.gitignore
 
+desktop.ini
 .obsidian/workspace.json
-
-.obsidian\plugins\remember-cursor-position\cursor-positions.json
+.obsidian/plugins/remember-cursor-position/cursor-positions.json
