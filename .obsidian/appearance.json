@@ -6,5 +6,6 @@
   "textFontFamily": "Cambria",
   "showViewHeader": true,
   "translucency": false,
-  "monospaceFontFamily": "Courier New"
+  "monospaceFontFamily": "Courier New",
+  "cssTheme": "Minimal"
 }
