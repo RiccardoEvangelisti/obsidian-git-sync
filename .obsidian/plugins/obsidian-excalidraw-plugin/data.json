@@ -36,11 +36,11 @@
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
-  "matchTheme": false,
+  "matchTheme": true,
   "matchThemeAlways": false,
-  "matchThemeTrigger": false,
+  "matchThemeTrigger": true,
   "defaultMode": "normal",
-  "defaultPenMode": "never",
+  "defaultPenMode": "always",
   "penModeDoubleTapEraser": true,
   "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": false,
@@ -100,7 +100,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.9",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.8",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -113,7 +113,7 @@
   "scriptEngineSettings": {},
   "defaultTrayMode": true,
   "previousRelease": "2.6.8",
-  "showReleaseNotes": true,
+  "showReleaseNotes": false,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
@@ -785,7 +785,7 @@
       "key": "G"
     }
   ],
-  "showSplashscreen": true,
+  "showSplashscreen": false,
   "autosaveInterval": 15000,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
 }
