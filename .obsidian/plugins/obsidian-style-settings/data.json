@@ -21,12 +21,15 @@
   "minimal-style@@h4-size": "1.3em",
   "minimal-style@@h5-size": "1em",
   "minimal-style@@heading-spacing": "0.5em",
-  "minimal-style@@h2-l": false,
-  "minimal-style@@h6-variant": "small-caps",
+  "minimal-style@@h2-l": true,
   "minimal-style@@h6-style": "normal",
   "minimal-style@@h5-l": false,
   "minimal-style@@p-spacing": "0.2rem",
   "minimal-style@@minimal-unstyled-tags": false,
   "minimal-style@@tag-background@@dark": "#F7B4FF",
-  "minimal-style@@tag-color@@dark": "#000000BA"
+  "minimal-style@@tag-color@@dark": "#000000BA",
+  "minimal-style@@h6-l": false,
+  "minimal-style@@h3-l": false,
+  "minimal-style@@h3-weight": 600,
+  "minimal-style@@h1-l": true
 }
