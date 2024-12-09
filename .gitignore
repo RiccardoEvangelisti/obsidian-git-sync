@@ -5,3 +5,5 @@ desktop.ini
 !.gitignore
 
 .obsidian/workspace.json
+
+.obsidian\plugins\remember-cursor-position\cursor-positions.json
