@@ -1,9 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#799caf",
   "theme": "obsidian",
   "nativeMenus": false,
   "baseFontSize": 18,
-  "textFontFamily": "Cambria",
+  "textFontFamily": "Inter",
   "showViewHeader": true,
   "translucency": false,
   "monospaceFontFamily": "Courier New",

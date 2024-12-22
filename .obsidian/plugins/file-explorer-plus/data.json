@@ -15,14 +15,14 @@
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "Backstory.md",
+        "pattern": "mappe/0. Avenross.jpg",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "FILES",
-        "pattern": "mappe/0. Avenross.jpg",
+        "pattern": "Backstory.md",
         "patternType": "STRICT"
       }
     ]

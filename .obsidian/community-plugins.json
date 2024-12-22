@@ -1,5 +1,4 @@
 [
-  "execute-code",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "highlightr-plugin",
@@ -12,10 +11,11 @@
   "obsidian-editor-shortcuts",
   "image-converter",
   "various-complements",
-  "obsidian-git",
   "remember-cursor-position",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
   "obsidian-icon-folder",
-  "file-explorer-plus"
+  "file-explorer-plus",
+  "tabs",
+  "obsidian-kanban"
 ]
