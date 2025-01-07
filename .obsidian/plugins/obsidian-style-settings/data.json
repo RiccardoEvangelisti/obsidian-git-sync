@@ -32,5 +32,6 @@
   "minimal-style@@h3-l": false,
   "minimal-style@@h3-weight": 600,
   "minimal-style@@h1-l": true,
-  "minimal-style@@tabs-style": "tabs-default"
+  "minimal-style@@tabs-style": "tabs-default",
+  "minimal-style@@image-grid-fit": "cover"
 }
