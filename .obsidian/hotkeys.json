@@ -129,5 +129,23 @@
       ],
       "key": "Tab"
     }
+  ],
+  "obsidian-editor-shortcuts:insertCursorAbove": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-editor-shortcuts:insertCursorBelow": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
   ]
 }
